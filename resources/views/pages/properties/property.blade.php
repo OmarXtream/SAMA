@@ -127,25 +127,25 @@
                                             <ul class="list-inline card__content">
                                                 <li class="list-inline-item">
             
-                                                    <span>
+                                                    <span class="mr-5" dir="rtl">
                                                         دورات المياه <br>
                                                         <i class="fa fa-bath"></i> {{ $property->bathroom}}
                                                     </span>
                                                 </li>
                                                 <li class="list-inline-item">
-                                                    <span>
+                                                    <span class="mr-5" dir="rtl">
                                                         غرف <br>
                                                         <i class="fa fa-bed"></i> {{ $property->bedroom}}
                                                     </span>
                                                 </li>
                                                 <li class="list-inline-item">
-                                                    <span>
+                                                    <span dir="rtl">
                                                         المساحة الأرضية <br>
                                                         <i class="fa fa-map"></i> {{ $property->area}}
                                                     </span>
                                                 </li>
                                             </ul>
-                                                    </div>
+                                                                </div>
                                     </div>
                                     <div
                                         class="col-md-4 col-lg-3 col-xl-3 my-auto card__image__footer-first">

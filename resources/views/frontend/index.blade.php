@@ -49,19 +49,19 @@
                                 <ul class="list-inline card__content">
                                     <li class="list-inline-item">
 
-                                        <span>
+                                        <span class="mr-5" dir="rtl">
                                             دورات المياه <br>
                                             <i class="fa fa-bath"></i> {{ $property->bathroom}}
                                         </span>
                                     </li>
                                     <li class="list-inline-item">
-                                        <span>
+                                        <span class="mr-5" dir="rtl">
                                             غرف <br>
                                             <i class="fa fa-bed"></i> {{ $property->bedroom}}
                                         </span>
                                     </li>
                                     <li class="list-inline-item">
-                                        <span>
+                                        <span dir="rtl">
                                             المساحة الأرضية <br>
                                             <i class="fa fa-map"></i> {{ $property->area}}
                                         </span>
@@ -91,18 +91,18 @@
 
     <!-- ABOUT -->
     <section class="home__about bg-theme-v7">
-        <div class="container">
+        <div class="container text-center">
             <div class="row">
-                <div class="col-md-7">
+                <div class="col-md-7" dir="rtl">
                     <div class="title__leading">
                         <!-- <h6 class="text-uppercase">trusted By thousands</h6> -->
                         <h2 class="text-capitalize">لماذا تختارنا؟</h2>
-                        <p>
+                        <p class="text-justify">
                             تعمل سما على تحقيق تجربة استثنائية للعملاء، من خلال توفير مجموعة واسعة من الخيارات العقارية التي تتناسب مع احتياجاتهم وتفضيلاتهم. تعتبر سما جسرًا يربط بين الباحثين عن المنازل والعقارات المثالية وبين البائعين الراغبين في تحقيق أقصى قيمة لعقاراتهم.
 
 
                         </p>
-                        <p>
+                        <p class="text-justify">
                             تعزز سما التواصل الشفاف والعلاقات المستدامة مع العملاء، حيث تقدم استشارات مهنية وموثوقة للمساعدة في اتخاذ قرارات مستنيرة. تهدف الشركة إلى تحقيق رضا العملاء الكامل وتفوق توقعاتهم، من خلال تقديم خدمات عالية الجودة والكفاءة.
 
                         </p>

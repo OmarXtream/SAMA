@@ -1,6 +1,6 @@
     <!-- CALL TO ACTION -->
     <section class="cta-v1 py-5">
-        <div class="container">
+        <div class="container text-center">
             <div class="row align-items-center">
                 <div class="col-lg-9">
                     <h2 class="text-uppercase text-white">هل تبحث عن منزل أحلامك؟</h2>
@@ -18,7 +18,7 @@
     <!-- Footer  -->
     <footer>
         <div class="wrapper__footer bg-theme-footer">
-            <div class="container">
+            <div class="container text-center">
                 <div class="row">
                     <!-- ADDRESS -->
                     <div class="col-md-4">
@@ -82,21 +82,21 @@
                                 تابعنا ليصلك كل جديد
                             </p>
                             <p>
-                                <button class="btn btn-social btn-social-o facebook mr-1">
+                                <button class="btn btn-social btn-social-o mr-1">
                                     <i class="fa fa-facebook-f"></i>
                                 </button>
-                                <button class="btn btn-social btn-social-o twitter mr-1">
+                                <button class="btn btn-social btn-social-o mr-1">
                                     <i class="fa fa-twitter"></i>
                                 </button>
 
-                                <button class="btn btn-social btn-social-o linkedin mr-1">
-                                    <i class="fa fa-linkedin"></i>
+                                <button class="btn btn-social btn-social-o mr-1">
+                                    <i class="fa fa-whatsapp"></i>
                                 </button>
-                                <button class="btn btn-social btn-social-o instagram mr-1">
+                                <button class="btn btn-social btn-social-o mr-1">
                                     <i class="fa fa-instagram"></i>
                                 </button>
 
-                                <button class="btn btn-social btn-social-o youtube mr-1">
+                                <button class="btn btn-social btn-social-o mr-1">
                                     <i class="fa fa-youtube"></i>
                                 </button>
                             </p>

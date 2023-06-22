@@ -3,7 +3,7 @@
         <nav class="navbar navbar-hover navbar-expand-lg navbar-soft">
             <div class="container">
                 <a class="navbar-brand" href="{{ route('home') }}">
-                    <img src="{{asset('frontend/images/logo-head.png')}}" alt="logo" class="img-fluid">
+                    <img style="width: 120px;object-fit: contain;aspect-ratio: 3/2;" src="{{asset('frontend/images/logo.png')}}" alt="logo" class="img-fluid">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main_nav99">
                     <span class="navbar-toggler-icon"></span>
